@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌍  I live in Austria<br>📚  Student at the HTL Hollabrunn - Electronics and information technology<br>⛳  Golfing for fun</p>
+<p align="left">🌍  I live in Austria<br>📚 Currently working on some Bamou <br>⛳  Golfing for fun</p>
 
 ###
 
